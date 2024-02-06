@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**nadeem-ahmed-git/nadeem-ahmed-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20.png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Nadeem! 👋 <br>
+    🔥 Data Analyst grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: SQL, Power  BI, Python, Excel... <br>
+    :email:	ahmednadeem.mail@gmail.com <br>
+    :art: Portfolio: https://nadeem-ahmed-git.github.io/Nadeem-s_Data_Analyst_Portfolio/ <br>
+                LinkedIN: https://www.linkedin.com/in/nadeem-ahmed-523266178/ <br>
+  </samp>
+</p>
