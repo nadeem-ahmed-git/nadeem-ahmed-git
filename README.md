@@ -6,7 +6,7 @@
     🔥 Data Analyst grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: SQL, Power  BI, Python, Excel... <br>
     :email:	ahmednadeem.mail@gmail.com <br>
-    :art: Portfolio: https://nadeem-ahmed-git.github.io/Nadeem-s_Data_Analyst_Portfolio/ <br>
+    :art: Portfolio: https://github.com/nadeem-ahmed-git <br>
                 Linkedin: https://www.linkedin.com/in/nadeem-ahmed-523266178/ <br>
   </samp>
 </p>
